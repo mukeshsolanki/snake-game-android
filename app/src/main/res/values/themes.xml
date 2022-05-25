@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Snake" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:navigationBarColor">#8DA25A</item>
+        <item name="android:statusBarColor">#8DA25A</item>
+    </style>
+</resources>
